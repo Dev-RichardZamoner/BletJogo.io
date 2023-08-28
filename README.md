@@ -17,7 +17,8 @@ PS: O jogo nunca acaba a meta é fazer a maior quantidade de pontos para o seu f
 ![image](https://github.com/Dev-RichardZamoner/BletJogo.io/assets/130820445/de1fffd4-034c-423f-a24e-5d88a6d77428)
 ![image](https://github.com/Dev-RichardZamoner/BletJogo.io/assets/130820445/1877a29a-4f8b-4489-88a7-8d8da03b9a01)
 ![image](https://github.com/Dev-RichardZamoner/BletJogo.io/assets/130820445/2a3c8c36-024c-4c3a-a22a-58a39a23a1dd)
-![image](https://github.com/Dev-RichardZamoner/BletJogo.io/assets/130820445/0368fb69-8788-4761-973a-adff85430cb6)
+![image](https://github.com/Dev-RichardZamoner/BletJogo.io/assets/130820445/233b2243-89fb-4cd7-8e3c-6d2711658b74)
+
 
 Video Funcional 👨‍💻❤️
 
